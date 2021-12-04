@@ -1,0 +1,3 @@
+- Hi, I'm @PerkyElixir22
+- I'm interested in programming (mostly C++)
+- My discord is PerkyElixir22#4815
